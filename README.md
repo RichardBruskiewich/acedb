@@ -5,7 +5,7 @@ acedb (also capitalised as ACeDB, Acedb, ACEDB etc.).
 
 Acedb was originally
 developed as the genome database system and browser for the model organism *C. elegans* by Jean Thierry-Mieg and Richard Durbin, starting around 1990.  It was subsequently extended over many years, with many applications in biology and elsewhere, and
-substantial input and additions from many others including Simon Kelley and Ed Griffiths.  Around the late 1990s there was a major fork, with one branch maintained and developed by Jean
+substantial input and additions from many others including Simon Kelley and Ed Griffiths. In the mid-90's, Acedb was ported both to Apple Mac and to Microsoft Windows 95 (the latter by Richard Bruskiewich), with some explorations of (then new) Java language language access, by Lincoln Stein and Jean Thierry-Mieg.  Around the late 1990s there was a major fork, with one branch maintained and developed by Jean
 Thierry-Mieg at NCBI, with in particular extensive additions for assembly and
  RNAseq data analysis, and the other banch maintained by a series
 of individuals at the Wellcome Trust Sanger Institute, with in
